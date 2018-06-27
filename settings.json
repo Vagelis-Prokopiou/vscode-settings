@@ -1,7 +1,10 @@
 {
-    "window.zoomLevel": 1,
+    "sublimeTextKeymap.promptV3Features": true,
+    "window.zoomLevel": 0,
     "editor.fontSize": 17,
     "editor.wordWrap": "on",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
     "editor.formatOnPaste": true,
@@ -15,5 +18,12 @@
     "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
     "terminal.integrated.shell.windows": "C:\\Users\\Vangelisp\\Downloads\\programs\\PortableGit\\git-bash.exe",
     "terminal.integrated.cursorStyle": "line",
-    "git.autofetch": false
+    "git.autofetch": false,
+    "workbench.colorTheme": "Monokai",
+    "spellchecker.documentTypes": [
+        "markdown",
+        "latex",
+        "html",
+        "plaintext"
+    ],
 }
